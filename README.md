@@ -101,7 +101,7 @@ A propriedade mencionada acima indica à JPA que o arquivo `data.sql` deve ser
 
 ## Busca com Filtros
 
-![tempsnip.png](Spring%20Boot%20API%20REST%20Construa%20uma%20API%20415f98393c834bd28f91b7f7e1a40c86/tempsnip.png)
+![tempsnip.png](tempsnip.png)
 
 Conforme o modelo usado acima para exemplo, ao fazermos uma consulta dos tópicos por curso, precisamos fazer **JOIN com a tabela de Curso**, assim conseguimos pegar os tópicos de determinado curso.
 
